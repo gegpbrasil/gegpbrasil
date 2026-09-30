@@ -8,17 +8,17 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS, JS, Python (aprendendo)**
 
-- 👯 Procuro colaborar em **projetos abertos com propósito social ou projetos privados de desenvolvimento.**
+- 👯 colaborarO principalmente em **projetos privados de desenvolvimento.**
 
-- 🤝 Procuro ajuda com **C++ e organização do código**
+- 🤝 Procuro ajuda com **vibe coding e organização do código**
 
-- 💬 Pergunte-me sobre **desenvolvimento web e criação de lores. (Extra: Prompt para IA)**
+- 💬 Pergunte-me sobre **desenvolvimento web e criação de lores.(Não, tenho projetos de vibe coding e 100% humano mas mesmo os de Ai tem partiçipação analise humana)**
+  
+- I speak: **Je parle francês basique, ho hablo la lingua espanhola avanzada e português (entendo um pouco de inglês também)**
 
-- ⚡ Curiosidade: **Sou desenvolvedor e entusiasta de ônibus (busólogo).**
+- ⚡ Curiosidade: **Sou desenvolvedor e busólogo.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em **[https://sites.google.com/view/projetovi/novo-projeto-vi](https://sites.google.com/view/projetovi/novo-projeto-vi)**
-
-- 📝 Escrevo artigos regularmente em **[https://projeto-vi.gabrielmanoeldasilva2025.workers.dev](https://projeto-vi.gabrielmanoeldasilva2025.workers.dev)**
+- 👨‍💻 Todos os meus projetos estão disponíveis em **vi.abc.br**
 
 - 📄 Conheça minhas experiências em **[https://www.instagram.com/gabriel6a.ofc/](https://www.instagram.com/gabriel6a.ofc/)**
 
